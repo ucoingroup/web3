@@ -14,7 +14,9 @@ WEB3终极指南 - 2026 Edition-web1
 副标题：以 EACO 为例，海外网友的阶层跨越实操手册
 
 联系主编 / 投稿 / 获取自动更新： eaco2cc@gmail.
+
 核心资产（Solana 链）： DqfoyZH96RnvZusSp3Cdncjpyp3C74ZmJzGhjmHnDHRH
+
 更新机制： 本书为动态数字资产 – 每周/每月推送最新技术文章、链上工具与市场分析。
 
 全书大纲（动态更新版）
