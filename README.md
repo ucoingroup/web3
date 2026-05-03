@@ -12,7 +12,7 @@ WEB3终极指南 - 2026 Edition-web1
 《WEB3 & WEB4 终极指南：从 Solana 到 AI 经济公民》
 副标题：以 EACO 为例，海外网友的阶层跨越实操手册
 
-联系主编 / 投稿 / 获取自动更新： eaco2cc@gmail.com
+联系主编 / 投稿 / 获取自动更新： eaco2cc@gmail.
 核心资产（Solana 链）： DqfoyZH96RnvZusSp3Cdncjpyp3C74ZmJzGhjmHnDHRH
 更新机制： 本书为动态数字资产 – 每周/每月推送最新技术文章、链上工具与市场分析。
 
@@ -135,7 +135,7 @@ AI + Crypto 月度趋势
 EACO 社区动态摘要
 
 永久链接
-主编邮箱（投稿/合作）：eaco2cc@gmail.com
+主编邮箱（投稿/合作）：eaco2cc@gmail.
 
 EACO Solana CA：DqfoyZH96RnvZusSp3Cdncjpyp3C74ZmJzGhjmHnDHRH
 
