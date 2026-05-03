@@ -165,3 +165,7 @@ eaco vpn2026
 支持联合国通用的六种语言。
 
 添加AI工具，集成全球前10大AI系统的免费API工具，每天0.01的时候自动更新所有的 上网VPN最好用最实惠的100个APP网站的信息。
+
+https://eacovpn.base44.app
+
+eaco web3 vpn 仅供参考。
